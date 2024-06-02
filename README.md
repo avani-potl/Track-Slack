@@ -1,9 +1,9 @@
-# Track-Slack-
+# Track-Slack
 Developing a real-time chat analysis tool leveraging NLP and machine learning to extract insights, monitor sentiment, and enhance user engagement
 
 # Blog link: 
 
-# WhatsApp Chat Analysis Overview
+# Chat Analysis Overview
 
 ## Background
 Originally, the intention was to analyze Slack data to understand team communication dynamics. However, due to the unavailability of suitable datasets and challenges in data collection, WhatsApp chat data was chosen as an alternative. While the platform differs, the analysis goals remained consistent: to uncover insights into messaging behaviors and patterns within a group setting.
